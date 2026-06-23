@@ -33,11 +33,11 @@ To learn a build a career in Cyber Security.
 
 ## Repositories
 
-### Cybersecurity Notes
+### Cybersecurity Journey
 
-Personal notes and documentation from my cybersecurity learning journey.
+My notes, labs, home lab documentation, and cybersecurity learning progress.
 
-[Cybersecurity Notes](https://github.com/Suvv0/cybersecurity-notes)
+🔗 https://github.com/suvv0/Cybersecurity-Journey
 
 ### Cybersecurity Homelab
 
