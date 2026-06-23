@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Suvam!
+<a herf="https://www.linkedin.com/in/suvam-ghosh-61959422b/">
+[
+  Brief Introduction.]
+  
+# 🛡️ Aspiring Cybersecurity Professional: currently building a strong foundation in Linux, Networking, System Administration, and Security Fundamentals.
 
-<!--
+*I believe in learning by doing, documenting my progress, and building practical skills through hands-on labs and home lab environments..*
+
+## 🎯 Objective
+To learn a build a career in Cyber Security. 
+
+## 🛠️ Tech Stack & Home Lab
+- **Operating Systems:** Kali Linux, Ubuntu
+- **Security Tools:** Wireshark, Nmap, Metasploit.
+- **Automation/Scripting:** Python 
+- **Documentation:** Obsidian,
+- **Planned Additions:**
+--Kali Linux
+--Docker
+--OWASP Juice Shop
+--DVWA
+--Vulnerable Test Machines
+
+
 **suvv0/Suvv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
