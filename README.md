@@ -22,5 +22,40 @@ To learn a build a career in Cyber Security.
 --DVWA
 --Vulnerable Test Machines
 
+## Current Learning Path
+
+* Linux Fundamentals
+* Networking Fundamentals
+* Wireshark
+* Virtualization
+* Home Lab Setup
+* TryHackMe
+
+## Repositories
+
+### Cybersecurity Notes
+
+Personal notes and documentation from my cybersecurity learning journey.
+
+[Cybersecurity Notes](https://github.com/Suvv0/cybersecurity-notes)
+
+### Cybersecurity Homelab
+
+Documentation of my home lab setup, experiments, and learning projects.
+
+[Cybersecurity Homelab](https://github.com/Suvv0/cybersecurity-homelab)
+
+## Current Goals
+
+* Complete Linux Fundamentals
+* Build a functional cybersecurity home lab
+* Learn networking concepts
+* Practice with vulnerable applications
+* Document everything I learn
+
+## Connect
+
+Always learning, building, and documenting.
+
 
 
