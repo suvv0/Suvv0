@@ -23,5 +23,4 @@ To learn a build a career in Cyber Security.
 --Vulnerable Test Machines
 
 
-**suvv0/Suvv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
