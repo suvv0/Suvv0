@@ -37,15 +37,15 @@ To learn a build a career in Cyber Security.
 
 My notes, labs, home lab documentation, and cybersecurity learning progress.
 
-🔗 https://github.com/suvv0/Cybersecurity-Journey
+* [Cyber-Security Journey for Beginner](https://github.com/suvv0/Cybersecurity-Journey)
+
+* [Journey From MacOs To Ubuntu 26-04 On Macbook Air 2017](https://github.com/suvv0/Cybersecurity-Journey/blob/main/Linux/Journey%20From%20MacOs%20To%20Ubuntu%2026-04%20.md)
 
 ### Cybersecurity Homelab
 
 Documentation of my home lab setup, experiments, and learning projects.
 
 [Cybersecurity Homelab](https://github.com/Suvv0/cybersecurity-homelab)
-
-## Current Goals
 
 * Complete Linux Fundamentals
 * Build a functional cybersecurity home lab
